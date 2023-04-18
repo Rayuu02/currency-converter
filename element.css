@@ -1,0 +1,9 @@
+.element{
+width: 300px;
+height: 300px;
+resize: both;
+overflow: auto;
+background-image: url("./images/bank.jpg");
+background-size: cover;
+background-position: center;
+}
